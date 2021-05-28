@@ -11,6 +11,8 @@
 <p align="left">
 <a href="https://dev.to/keerti2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="keerti2001" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/keerti-chaudhary-73801b197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="keerti2001" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_keertii__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="keerti2001" height="30" width="40" /></a>
+<a href="https://medium.com/@keerti2001.kc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="keerti2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
