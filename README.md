@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Keerti Chaudhary</h1>
 <h3 align="center">I'm a Undergraduate Student pursuing BTech in CSE from NTIK</h3>
 
@@ -9,20 +7,9 @@
 
 - 🔭 I’m currently working as **SDE Intern at Walmart Global Tech, India**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/keerti2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="keerti2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keerti-chaudhary-73801b197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="keerti-chaudhary-73801b197" height="30" width="40" /></a>
-<a href="https://instagram.com/_keertii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_keertii__" height="30" width="40" /></a>
-<a href="https://medium.com/@keerti2001.kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@keerti2001.kc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keerti2001_kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="keerti2001_kc" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keerti_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="keerti_01" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@keerti43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@keerti43" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/keerti2001kc/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="keerti2001kc/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
