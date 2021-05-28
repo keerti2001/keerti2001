@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerti2001" alt="keerti2001" /></a> </p>
 
-- 🔭 I’m currently working as **SDE Intern at Walmart Global Tech, India**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
